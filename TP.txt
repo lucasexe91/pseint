@@ -1,0 +1,30 @@
+Trabajo Práctico Evaluativo
+
+-Generar por grupos de dos o tres alumnos, tres enunciados para realizar ejercicios,
+utilizando las tres estructuras iterativas vistas. Justificar el porque de las 
+estructura elegida para cada enunciado.
+
+Ejercicio con repetir
+
+-Programe un contador de numeros pares. el usuario ira ingresando numeros y el sistema le
+preguntara luego de cada uno si desea ingresar otro, el programa corta cuando el usuario
+responde "no" y muestra por pantalla la cantidad de numeros pares ingresados.
+
+-Use la estructura repetir con este ejercicio por que valida la salida del ciclo al final
+sin tener que volver a iterar.
+
+Ejercicio con mientras
+
+-Realice un sistema que cuente hacia atras, el sistema corta cuando el numero llega a 0,
+pero el 0 no debe mostrarse
+
+-El ciclo mientras se caracteriza por iterar requiriendo que se cumpla una condición
+primeramente, si no se cumple directamente no se ejecuta el ciclo.
+
+Ejercicio con para
+
+-Desarrolle un programa que dado dos numeros por el usuario, el sistema le devuelva cuantos
+numeros hay entre ellos.
+
+-Elegi el para, por que el usuario ingresa de donde y hasta donde debe ciclar el sistema
+al conocer cuantas veces se cicla, es mejor esta estructura.
